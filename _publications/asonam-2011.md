@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/asonam-2011
 excerpt: ''
 date: 2011-10-01
-venue: 'ASONAM 2011'
+venue: 'ASONAM'
 paperurl: 'https://pdfs.semanticscholar.org/10f2/72220cbca311c8379a72f9d5ba387b18c437.pdf'
 citation: 'Sun, Y., Barber, R., Gupta, M., Aggarwal, C. C., & Han, J. (2011, July). Co-author relationship prediction in heterogeneous bibliographic networks. In Advances in Social Networks Analysis and Mining (ASONAM), 2011 International Conference on (pp. 121-128). IEEE.'
 ---

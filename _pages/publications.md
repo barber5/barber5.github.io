@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+Nothing lately, for older work, see Google Scholar. 
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}

@@ -11,7 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-Nothing lately, for older work in bioinformatics, web mining, and social and information networks, see <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+Nothing lately. Older work is below, however. 
+
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}

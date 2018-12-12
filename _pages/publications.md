@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Nothing lately, for older work, see Google Scholar. 
+Nothing lately, for older work in bioinformatics, web mining, and social and information networks, see [Google Scholar](https://scholar.google.com/citations?user=wKpbDDsAAAAJ&hl=en). 
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}

@@ -9,15 +9,11 @@ redirect_from:
 ---
 
 
->[S]cientific discoveries can be used in at least two opposite ways. The first leads to specialization of functions, institutionalization of values and centralization of power and turns people into the accessories of bureaucracies or machines. The second enlarges the range of each person's competence, control, and initiative, limited only by other individuals' claims to an equal range of power and freedom. 
->
->-Ivan Illich, Tools For Conviviality
 
->An autonomous person is an individual capable of deliberation about personal goals and of acting under the direction of such deliberation. To respect autonomy is to give weight to autonomous persons' considered opinions and choices while refraining from obstructing their actions unless they are clearly detrimental to others. To show lack of respect for an autonomous agent is to repudiate that person's considered judgments, to deny an individual the freedom to act on those considered judgments, or to withhold information necessary to make a considered judgment, when there are no compelling reasons to do so.
->
->-The Belmont Report
 
-I am interested in the outcome of interactions between human users and large web companies. 
+I am a PhD student in Computer Science at [University of Illinois Urbana-Champaign](https://cs.illinois.edu). I am researching privacy and the online advertising ecosystem under the supervision of [Hari Sundaram](https://sundaram.cs.illinois.edu/) and [Karrie Karahalios](https://social.cs.uiuc.edu/people/kkarahal.html).
+
+Prior to joining the PhD program, I received a BS from UIUC and an MS from Stanford University, both in Computer Science. I worked in the technology industry as a data scientist and executive before co-founding a seed stage [venture capital firm](https://www.refactor.com). 
 
 A data-driven personal website
 ======

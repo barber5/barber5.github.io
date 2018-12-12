@@ -1,5 +1,5 @@
 ---
-title: "Course Assistant, CS181 Computers, ethics, and public policy"
+title: "Course Assistant, CS181 Computers, Ethics, and Public Policy"
 collection: teaching
 type: ""
 permalink: /teaching/2012-ethics

@@ -4,7 +4,7 @@ collection: teaching
 type: "Course"
 permalink: /teaching/2017-teaching
 venue: "CS 361 Probability & Statistics for Computer Scientists"
-date: 2018
+date: 2017-08-01
 location: "University of Illinois"
 ---
 

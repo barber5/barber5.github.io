@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rick Barber"
 title_separator          : "-"
 name                     : &name "Rick Barber"
-description              : &description "my description"
+description              : &description "Researching privacy and the online advertising ecosystem"
 url                      : https://barber5.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "barber5.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rick Barber"
   avatar           : "profile.png"
-  bio              : "Bio"
+  bio              : "Researching privacy and the online advertising ecosystem"
   location         : "Champaign, IL"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=wKpbDDsAAAAJ&hl=en"

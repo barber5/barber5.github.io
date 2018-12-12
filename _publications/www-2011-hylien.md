@@ -2,7 +2,7 @@
 title: "Hylien: A hybrid approach to general list extraction on the web"
 collection: publications
 permalink: /publication/www-2011-hylien
-excerpt: ''
+excerpt: 'Extracting lists on the web'
 date: 2011-10-01
 venue: 'WWW'
 paperurl: 'http://wwwconference.org/proceedings/www2011/companion/p35.pdf'

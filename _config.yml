@@ -180,7 +180,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  industry:
     output: true
     permalink: /:collection/:path/
 
@@ -232,12 +232,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _industry
   - scope:
       path: ""
-      type: talks
+      type: industries
     values:
-      layout: talk
+      layout: industry
       author_profile: true
       share: true
 

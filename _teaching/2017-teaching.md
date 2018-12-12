@@ -1,9 +1,9 @@
 ---
-title: "Instructor"
+title: "Instructor, CS 361 Probability & Statistics for Computer Scientists"
 collection: teaching
-type: "Course"
+type: ""
 permalink: /teaching/2017-teaching
-venue: "CS 361 Probability & Statistics for Computer Scientists"
+venue: ""
 date: 2017-08-01
 location: "University of Illinois"
 ---

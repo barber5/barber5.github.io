@@ -1,9 +1,9 @@
 ---
-title: "Course Assistant"
+title: "Course Assistant, CS 183 Startup"
 collection: teaching
-type: "Course"
+type: ""
 permalink: /teaching/2012-thiel
-venue: "CS 183 Startup"
+venue: ""
 date: 2012-08-01
 location: "Stanford"
 ---

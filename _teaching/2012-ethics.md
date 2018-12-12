@@ -1,9 +1,9 @@
 ---
-title: "Course Assistant"
+title: "Course Assistant, CS181 Computers, ethics, and public policy"
 collection: teaching
-type: "Course"
+type: ""
 permalink: /teaching/2012-ethics
-venue: "CS181 Computers, ethics, and public policy"
+venue: ""
 date: 2012-08-01
 location: "Stanford University"
 ---

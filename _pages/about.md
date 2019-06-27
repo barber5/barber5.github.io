@@ -25,9 +25,7 @@ Research
 >
 >-The Belmont Report
 
-I am interested in the outcome of online interactions between users and technology companies. While the companies delegate their half of the interaction to a piece of software, purpose-built for achieving carefully considered goals, the user often finds it hard to get an outcome from the interaction that is consistent with their own goals, just as carefully deliberated. Whether it is a desire for more privacy or less addictiveness, software can help preserve user autonomy. 
-
-I am studying adversarial user strategies for maintaining privacy online while interacting with the advertising and tracking ecosystem, as well as alternatives to this system based on data marketplaces. The work draws on research in HCI, privacy & security, machine learning, and algorithmic game theory.
+I am interested in how business models and market structure relate to effects of networked software such as unwanted tracking, advertising, and addictiveness. I use tools from HCI, security, and artificial intelligence to study these questions. I hope my conclusions can be useful to public discourse, business practice, and public policy. 
 
 Hobbies
 ======

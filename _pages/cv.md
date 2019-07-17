@@ -18,7 +18,6 @@ Education
 Work experience
 ======
 * Visiting Director, UIUC Engineering City Scholars Program, Summer 2018
-  
 
 * Cofounder and venture partner, Refactor Capital, 2015-present
 
@@ -31,7 +30,7 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -39,7 +38,7 @@ Publications
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

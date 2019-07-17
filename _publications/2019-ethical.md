@@ -1,7 +1,7 @@
 ---
 title: "When the Platform User Fights Back (with Software)"
 collection: publications
-permalink: /publication/ethical-2019
+permalink: /publication/2019-ethical
 excerpt: 'An argument for how tech can be put to work for users'
 date: 2019-05-09
 venue: 'The Ethical machine'

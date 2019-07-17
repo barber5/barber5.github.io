@@ -1,7 +1,7 @@
 ---
 title: "Growing parallel paths for entity-page discovery"
 collection: publications
-permalink: /publication/www-2011-parallel
+permalink: /publication/2011-www-parallel
 excerpt: 'Automatically discovering entity pages online'
 date: 2011-10-01
 venue: 'WWW'

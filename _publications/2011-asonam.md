@@ -1,7 +1,7 @@
 ---
 title: "Co-author relationship prediction in heterogeneous bibliographic networks"
 collection: publications
-permalink: /publication/asonam-2011
+permalink: /publication/2011-asonam
 excerpt: 'New feature framework for making predictions about network formation'
 date: 2011-10-01
 venue: 'ASONAM'

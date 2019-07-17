@@ -11,9 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-Nothing lately. Older work is below, however. 
-
-
-{% for post in site.publications %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}

@@ -8,5 +8,5 @@ date: 2019-08-01
 location: ""
 ---
 
-Office hours, discussion section, course management for a CS ethics course. Taught for 3 quarters.
+Office hours, course management, and lecturing for a course on the social implications of ubuiquitous software.
 

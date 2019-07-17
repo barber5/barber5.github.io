@@ -14,6 +14,6 @@ author_profile: true
 Nothing lately. Older work is below, however. 
 
 
-{% for post in site.publications reversed %}
+{% for post in site.publications %}
   {% include archive-single.html %}
 {% endfor %}

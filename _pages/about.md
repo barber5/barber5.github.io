@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-I am a first year PhD student in Computer Science at [University of Illinois Urbana-Champaign](https://cs.illinois.edu). I research privacy and the online advertising ecosystem in the [Crowd Dynamics Lab](https://crowddynamicslab.github.io) and [Social Spaces Group](http://social.cs.uiuc.edu).
+I am a second year PhD student in Computer Science at [University of Illinois Urbana-Champaign](https://cs.illinois.edu). I research privacy and the online advertising ecosystem in the [Crowd Dynamics Lab](https://crowddynamicslab.github.io) and [Social Spaces Group](http://social.cs.uiuc.edu).
 
 Prior to joining the PhD program, I received a BS from UIUC and an MS from Stanford University, both in Computer Science. I worked in the technology industry as a data scientist and executive before co-founding a seed stage [venture capital firm](https://www.refactor.com). 
 

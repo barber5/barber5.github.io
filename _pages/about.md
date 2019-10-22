@@ -25,7 +25,7 @@ Research
 >
 >-The Belmont Report
 
-I am interested in how business models and market structure relate to effects of networked software such as unwanted tracking, advertising, and addictiveness. I use tools from HCI, security, and artificial intelligence to study these questions. I hope my conclusions can be useful to public discourse, business practice, and public policy. 
+I am interested in how business models and market structure affect incentives and product design, and ultimately, users themselves in online systems. I use tools from HCI, security, and artificial intelligence to study these questions. I hope my conclusions can be useful to public discourse, business practice, and public policy. 
 
 Hobbies
 ======

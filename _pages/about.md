@@ -31,3 +31,7 @@ In my research, I use HCI, security, and game theory to [look at ways](https://r
 Hobbies
 ======
 In my free time, I like to dine out when I can, go hiking with my spouse, and play guitar. Once a week or so, I test my self-control and tempt fate by playing video games, while trying not to get too addicted. I read a lot, mostly history and sociology recently. 
+
+Writing
+======
+<iframe width="480" height="320" src="https://rickbarber.substack.com/embed" frameborder="0" scrolling="no"></iframe>

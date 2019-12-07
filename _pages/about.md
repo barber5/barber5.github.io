@@ -34,4 +34,5 @@ In my free time, I like to dine out when I can, go hiking with my spouse, and pl
 
 Writing
 ======
+I occasionally [write a newsletter about my research, technology, business, and society](https://rickbarber.substack.com). Please sign up below.
 <iframe width="480" height="320" src="https://rickbarber.substack.com/embed" frameborder="0" scrolling="no"></iframe>

@@ -15,6 +15,12 @@ I am a second year PhD student in Computer Science at [University of Illinois Ur
 
 Prior to joining the PhD program, I received a BS from UIUC and an MS from Stanford University, both in Computer Science. I worked in the technology industry as a data scientist and executive before co-founding a seed stage [venture capital firm](https://www.refactor.com). 
 
+Writing
+======
+I occasionally [write a newsletter about my research, technology, business, and society](https://rickbarber.substack.com). Please sign up below.
+<iframe width="480" height="320" src="https://rickbarber.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+
+
 Research
 ======
 >[S]cientific discoveries can be used in at least two opposite ways. The first leads to specialization of functions, institutionalization of values and centralization of power and turns people into the accessories of bureaucracies or machines. The second enlarges the range of each person's competence, control, and initiative, limited only by other individuals' claims to an equal range of power and freedom. 
@@ -31,8 +37,3 @@ In my research, I use HCI, security, and game theory to [look at ways](https://r
 Hobbies
 ======
 In my free time, I like to dine out when I can, go hiking with my spouse, and play guitar. Once a week or so, I test my self-control and tempt fate by playing video games, while trying not to get too addicted. I read a lot, mostly history and sociology recently. 
-
-Writing
-======
-I occasionally [write a newsletter about my research, technology, business, and society](https://rickbarber.substack.com). Please sign up below.
-<iframe width="480" height="320" src="https://rickbarber.substack.com/embed" frameborder="0" scrolling="no"></iframe>

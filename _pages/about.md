@@ -32,8 +32,3 @@ Research
 >-The Belmont Report
 
 In my research, I use HCI, security, and game theory to [look at ways](https://rickbarber.substack.com/p/adversarial-interaction) users can come out ahead when they are in conflict with online platforms. 
-
-
-Hobbies
-======
-In my free time, I like to dine out when I can, go hiking with my spouse, and play guitar. Once a week or so, I test my self-control and tempt fate by playing video games, while trying not to get too addicted. I read a lot, mostly history and sociology recently. 

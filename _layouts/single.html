@@ -36,7 +36,7 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p><i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsf page.collection == 'press' %}
+        {% elsif page.collection == 'press' %}
         <p><i>{{ post.author }}</i>. <b>{{ post.title }}</b>{{ post.date | default: "1900-01-01" | date: "%Y" }}. {{ post.publisher }}. <a href="{{ post.link}}">{{ post.link}}</a></p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>

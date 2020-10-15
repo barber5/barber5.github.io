@@ -40,6 +40,8 @@
 
         {% if post.collection == 'teaching' %}
           <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% else if post.collection == 'press' %}
+        <p><i>{{ post.author }}</i>. <b>{{ post.title }}</b>{{ post.date | default: "1900-01-01" | date: "%Y" }}. {{ post.publisher }}. <a href="{{ post.link}}">{{ post.link}}</a></p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}

@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 
+I'm the co-founder and CTO of [Addition Technologies](https://addition.ml) which makes AI systems for marketing.
 
-
-I am a third year PhD student in Computer Science at [University of Illinois Urbana-Champaign](https://cs.illinois.edu). I research online user-platform conflicts in the [Crowd Dynamics Lab](https://crowddynamicslab.github.io) and [Social Spaces Group](http://social.cs.uiuc.edu).
+Previously, I was a PhD student in Computer Science at [University of Illinois Urbana-Champaign](https://cs.illinois.edu). I researched online user-platform conflicts in the [Crowd Dynamics Lab](https://crowddynamicslab.github.io) and [Social Spaces Group](http://social.cs.uiuc.edu).
 
 Prior to joining the PhD program, I received a BS from UIUC and an MS from Stanford University, both in Computer Science. I worked in the technology industry as a data scientist and executive before co-founding a seed stage [venture capital firm](https://www.refactor.com). 
 
 Writing
 ======
-I occasionally [write a newsletter about my research, technology, business, and society](https://rickbarber.substack.com). Please sign up below.
+I occasionally [write a newsletter about technology, business, and society](https://rickbarber.substack.com). Please sign up below.
 <iframe width="480" height="320" src="https://rickbarber.substack.com/embed" frameborder="0" scrolling="no"></iframe>
 
 
@@ -31,4 +31,4 @@ Research
 >
 >-The Belmont Report
 
-In my research, I use HCI, security, and game theory to [look at ways](https://rickbarber.substack.com/p/adversarial-interaction) users can come out ahead when what they want is in conflict with what online platforms want.
+My PhD research used HCI, security, and game theory to [look at ways](https://rickbarber.substack.com/p/adversarial-interaction) users can come out ahead when what they want is in conflict with what online platforms want.
